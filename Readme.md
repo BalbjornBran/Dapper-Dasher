@@ -1,5 +1,4 @@
-Dasher-Dapper game
-By Balbjorn Bran
+# Dasher-Dapper game By Balbjorn Bran
 
 This is another simple game, just to learn how to create structs, creations of 
 functions, Loops and more basic stuff.
