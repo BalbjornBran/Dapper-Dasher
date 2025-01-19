@@ -9,5 +9,5 @@ must jump using space to avoid some nebulas.
 If the player touches the nebulas, the game will restart. If the player reaches 
 the latest nebula, he will win.
 
-There is an .exe file if you want to download it to play. Or you can download the
+There is an .rar file if you want to download to play. Or you can download the
 project and open it using the -worspace file and opening it with visual code.
